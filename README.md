@@ -25,3 +25,5 @@ Travel Class: precision is 92.42%, recall is 93.87%
 Business Class: precision is 88.08%, recall is 91.95%
 
 Style & Beauty: precision is 97.11%, recall is 92.91%
+
+(data.csv was downloaded from kaggle.com)
